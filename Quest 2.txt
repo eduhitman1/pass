@@ -1,0 +1,6 @@
+Quest 2
+relato de bug: Icone do netflix dublicado no titulo O poderoso chefão.
+
+ex. adicional 
+relato de bug: O Campo busca está filtrando mais de um titulo que não está de acordo com o que foi escrito, mesmo assim não deveria filtra nenhum titulo.
+

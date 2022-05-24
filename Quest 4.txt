@@ -1,0 +1,4 @@
+Quest 4
+
+O ciclo está definido no teste de quantidade da váriavel numEmployees., Complexibilidade cliclomática são o número de decisões que em cada função que precisa realiza.
+

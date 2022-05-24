@@ -1,0 +1,5 @@
+Quest 1
+Maintainability, 
+Debt - reduzir 18d
+Code Smells -  Otimizar o volume de codigo
+Coverage - aumentar a porcentagem de cobertura
